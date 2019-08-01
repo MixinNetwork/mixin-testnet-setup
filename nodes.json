@@ -1,0 +1,30 @@
+[
+  {
+    "signer": "XIN5jgheTM1WHmjGgNVqVaoGwJHCMbuAmQ4dAGeMhFTeGE2t1et36KR81BwEw5wzjS1oc5efBLY5hSVifXsftkuzgEcZ4rUE",
+    "host": "35.239.54.189:7239"
+  },
+  {
+    "signer": "XIN4i9vUX7UB8MiQQxe4oXxKbAzxpjXofzLJA35feCADwUdWgBLkFkQzgMPzCgMq58MZ4gu33fywVq5kLQitgi6N6xbjf9Du",
+    "host": "34.94.24.4:7239"
+  },
+  {
+    "signer": "XINEA1srk6ggAWUvynBrB5bAtSXnoZWm7yuwjYUD26ueFokwXAdLwaWmaJc7o3h3ZVfvVPGdmqy6DZLDhN7wSXncQGX4Wi3F",
+    "host": "node-test.f1ex.io:7239"
+  },
+  {
+    "signer": "XINX1ERRjy7fQGC8uUp4vQSvWJ7S9bjYBp3VkrT5bLLLcXTs49naBKgCZtPteMGeooPTAPyEd5zujVuMzss88n4FxW9QQFtP",
+    "host": "testnet.mixin.tako.vip:7239"
+  },
+  {
+    "signer": "XINRna5bZJYV6Y4dFZHd3L467paZMsgGBxLC328bKJe8E1AAcZymtoomV7ZzLdL8VeJH6R6Z3ykQEsgULxPGYYwGGsS6i6k4",
+    "host": "35.246.31.58:7239"
+  },
+  {
+    "signer": "XINJxcjDUw4WqHs6Z6vB6gGWghCUfCPseDFzmrbsjSifSKi9PjrBG1L8be1SJZq68KQSTUW8kgcMTgGADfATcSrVBXnpHeth",
+    "host": "mixin-test-node1.eoslaomao.com:443"
+  },
+  {
+    "signer": "XINL3AFaKiDZNsf8dymLcS6V9Y8FYByZRHhNWgfFZbGvskecuntpYpfC5vhthvn6XtnsHxKhVvdGHZ8BznhSUu8AEcuy8Hmc",
+    "host": "mixin-node-test.exinpool.com:7239"
+  }
+]

@@ -1,0 +1,46 @@
+{
+  "epoch": 1564617600,
+  "nodes": [
+    {
+      "signer": "XIN5jgheTM1WHmjGgNVqVaoGwJHCMbuAmQ4dAGeMhFTeGE2t1et36KR81BwEw5wzjS1oc5efBLY5hSVifXsftkuzgEcZ4rUE",
+      "payee": "XINUav9GwxMebHKjFv2mxuJcKEx12NS54q46wmFoQnh9k1dUo3MQZv9MCNfBA8vU35SfoHumc62JsiQmvucC1KKa6zamN3xw",
+      "balance": "10000"
+    },
+    {
+      "signer": "XIN4i9vUX7UB8MiQQxe4oXxKbAzxpjXofzLJA35feCADwUdWgBLkFkQzgMPzCgMq58MZ4gu33fywVq5kLQitgi6N6xbjf9Du",
+      "payee": "XIN4v3f6Zihgeh8drfzH5xBD95kregFNLWZwA34mPPvzLHYwGxEhMbaeyki1rzTSqADo8wqFmqW7weQycvJLVYnftqjh356L",
+      "balance": "10000"
+    },
+    {
+      "signer": "XINEA1srk6ggAWUvynBrB5bAtSXnoZWm7yuwjYUD26ueFokwXAdLwaWmaJc7o3h3ZVfvVPGdmqy6DZLDhN7wSXncQGX4Wi3F",
+      "payee": "XIN3AohM25PApbnZ3unHj3GPpQuQEXrcpUhvL1n4pFhpxZri72JhbcfnoSkBvLBTtQtixL5GYAzQKxf2TK8XB2ukuCHLtMqK",
+      "balance": "10000"
+    },
+    {
+      "signer": "XINX1ERRjy7fQGC8uUp4vQSvWJ7S9bjYBp3VkrT5bLLLcXTs49naBKgCZtPteMGeooPTAPyEd5zujVuMzss88n4FxW9QQFtP",
+      "payee": "XINS4AMBkntCVMb8tNmEvkX4zGfJM6TJWoA5gfdRNKVkcsXom41j2xVrkQNBxdzELd5iTp815TZXtugqQ2vNtbv8NxprXpJq",
+      "balance": "10000"
+    },
+    {
+      "signer": "XINRna5bZJYV6Y4dFZHd3L467paZMsgGBxLC328bKJe8E1AAcZymtoomV7ZzLdL8VeJH6R6Z3ykQEsgULxPGYYwGGsS6i6k4",
+      "payee": "XINCFQELVpKJVyXFaSzmVZwo3Bj3ForYgBmmLgytY2w4zUCQrPjJwqsZvjs7fP8VSAdCeVmo4VZ7ZE9SwDp8VHW3C14SUQSc",
+      "balance": "10000"
+    },
+    {
+      "signer": "XINJxcjDUw4WqHs6Z6vB6gGWghCUfCPseDFzmrbsjSifSKi9PjrBG1L8be1SJZq68KQSTUW8kgcMTgGADfATcSrVBXnpHeth",
+      "payee": "XINZxbb3MGYmuGmFGP6Lge9X6EEkhf8KidNZdGhdBoMWxT63FPud1pdAerjYbjkFwDv7emQKtXRfT9xkJAnwQ2c1iKQiyVid",
+      "balance": "10000"
+    },
+    {
+      "signer": "XINL3AFaKiDZNsf8dymLcS6V9Y8FYByZRHhNWgfFZbGvskecuntpYpfC5vhthvn6XtnsHxKhVvdGHZ8BznhSUu8AEcuy8Hmc",
+      "payee": "XIN2qJkLgXEheWphGm1BVL2J84s8ArPfQWZDX2zW5eYkPJHoiZEn9DBrLiqJKajKKZV6tC5P1j9eaT7iNzP6kWihZToSeMsn",
+      "balance": "10000"
+    }
+  ],
+  "domains": [
+    {
+      "signer": "XIN5jgheTM1WHmjGgNVqVaoGwJHCMbuAmQ4dAGeMhFTeGE2t1et36KR81BwEw5wzjS1oc5efBLY5hSVifXsftkuzgEcZ4rUE",
+      "balance": "50000"
+    }
+  ]
+}
