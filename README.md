@@ -1,5 +1,7 @@
 # Mixin Testnet
 
+Testnet network id `1982c70fd5784368920427adb61a468db84f2764f2b6d63d691b564059b87124`
+
 ## RPC Nodes
 
 * 35.239.54.189:8239
