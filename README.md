@@ -14,7 +14,7 @@ Testnet network id `1982c70fd5784368920427adb61a468db84f2764f2b6d63d691b564059b8
 
 ## Claim test token
 
-1. Create Mixin Address use `./mixin createaddress` from `https://github.com/MixinNetwork/mixin`
+1. Create Mixin Address use `./mixin createaddress` from [https://github.com/MixinNetwork/mixin](https://github.com/MixinNetwork/mixin)
 
 2. Use [Mixin Messenger](https://mixin.one/messenger) search Mixin ID: 7000101495, send message `/claim XINxxxx` (replace XINxxxx with your Mixin address) to the Bot, wait a minute, you'll receive the transaction hash for the claim token.
 
